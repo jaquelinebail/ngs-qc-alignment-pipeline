@@ -1,6 +1,8 @@
 # dados brutos - não versionar
 data/raw/*
 data/reference/*
+# reads trimadas - intermediario, não versionar
+results/trimmed/*.fastq
 # arquivos de alinhamento grandes
 *.sam
 *.bam

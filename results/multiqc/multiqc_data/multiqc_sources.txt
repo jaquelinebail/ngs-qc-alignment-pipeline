@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+Samtools	flagstat	flag	/home/jaquebail/projetos/ngs-qc-alignment-pipeline/results/aligned/flag
+fastp	all_sections	SRR2584863	/home/jaquebail/projetos/ngs-qc-alignment-pipeline/results/qc_trimmed/fastp.json
+FastQC	all_sections	SRR2584863_1	/home/jaquebail/projetos/ngs-qc-alignment-pipeline/results/qc_raw/SRR2584863_1_fastqc.zip
+FastQC	all_sections	SRR2584863_2	/home/jaquebail/projetos/ngs-qc-alignment-pipeline/results/qc_raw/SRR2584863_2_fastqc.zip

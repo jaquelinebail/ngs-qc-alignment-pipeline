@@ -1,0 +1,5 @@
+Sample	samtools_flagstat-flagstat_total	samtools_flagstat-mapped_passed	samtools_flagstat-mapped_passed_pct	fastp-pct_duplication	fastp-after_filtering_q30_rate	fastp-after_filtering_q30_bases	fastp-filtering_result_passed_filter_reads	fastp-after_filtering_gc_content	fastp-pct_surviving_reads	fastp-pct_surviving_bases	fastp-pct_adapter	fastp-before_filtering_read1_mean_length	fastp-before_filtering_read2_mean_length	fastqc-percent_duplicates	fastqc-percent_gc	fastqc-avg_sequence_length	fastqc-median_sequence_length	fastqc-percent_fails	fastqc-total_sequences
+SRR2584863				0.35203399999999996	89.1469	331.572814	2.60342	50.642900000000004	83.8050833763075	79.8192452128074	10.596397638771125	150.0	150.0						
+SRR2584863_1														27.84577595707715	50.0	150.0	150	0.0	1.553259
+SRR2584863_2														24.023567245244138	50.0	150.0	150	27.27272727272727	1.553259
+flag	2.624348	2.4766619999999997	94.37																
