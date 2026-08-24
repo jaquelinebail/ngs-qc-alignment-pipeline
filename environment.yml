@@ -1,0 +1,11 @@
+name: ngs-qc
+channels:
+  - conda-forge
+dependencies:
+  - sra-tools
+  - fastqc
+  - fastp
+  - bwa
+  - samtools
+  - multiqc
+prefix: /home/jaquebail/miniforge3/envs/ngs-qc
