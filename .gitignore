@@ -1,0 +1,13 @@
+# dados brutos - não versionar
+data/raw/*
+data/reference/*
+# arquivos de alinhamento grandes
+*.sam
+*.bam
+!results/aligned/flagstat.txt
+# temporários
+*.tmp
+.DS_Store
+# ambiente
+__pycache__/
+*.pyc
